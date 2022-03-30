@@ -1,4 +1,4 @@
-version: 2
+version: 2.1
 lang_code: cn
 lang_name: 简体中文
 rtl: false
@@ -52,15 +52,15 @@ easing:
   check_opacity: 透明度
   current_func: 当前函数
   linear_func: 线性函数
-  load: Loading...
+  load: 加载中......
 
 opensource:
-  title: Open Source
-  translate: Help translate site to your language
+  title: 开源项目
+  translate: 帮助网站翻译成你的语言
 
 authors:
   sitnik: Andrey Sitnik
-  separator: and
+  separator: 与
   solovev: Ivan Solovev
 
 theme:
