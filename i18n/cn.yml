@@ -1,4 +1,4 @@
-version: 2
+version: 2.1
 lang_code: cn
 lang_name: 简体中文
 rtl: false
@@ -55,12 +55,12 @@ easing:
   load: Loading...
 
 opensource:
-  title: Open Source
-  translate: Help translate site to your language
+  title: 开源
+  translate: 协助网站翻译你的语言
 
 authors:
   sitnik: Andrey Sitnik
-  separator: and
+  separator: 与
   solovev: Ivan Solovev
 
 theme:
